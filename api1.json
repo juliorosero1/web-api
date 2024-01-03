@@ -1,0 +1,54 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Laptop",
+        "categoria": "Computadoras",
+        "precio": 899.99,
+        "marca": "HP"
+      },
+      {
+        "id": 2,
+        "nombre": "Smartphone",
+        "categoria": "Teléfonos",
+        "precio": 499.99,
+        "marca": "Samsung"
+      },
+      {
+        "id": 3,
+        "nombre": "Tablet",
+        "categoria": "Dispositivos Móviles",
+        "precio": 299.99,
+        "marca": "Apple"
+      },
+      {
+        "id": 4,
+        "nombre": "Smart TV",
+        "categoria": "Electrónicos",
+        "precio": 799.99,
+        "marca": "LG"
+      },
+      {
+        "id": 5,
+        "nombre": "Cámara Digital",
+        "categoria": "Cámaras",
+        "precio": 349.99,
+        "marca": "Canon"
+      },
+      {
+        "id": 6,
+        "nombre": "Auriculares Inalámbricos",
+        "categoria": "Accesorios",
+        "precio": 79.99,
+        "marca": "Sony"
+      },
+      {
+        "id": 7,
+        "nombre": "Impresora Multifunción",
+        "categoria": "Impresoras",
+        "precio": 129.99,
+        "marca": "Epson"
+      }
+    ]
+  }
+  
